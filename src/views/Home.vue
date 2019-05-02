@@ -2,12 +2,14 @@
   <div id="principal">
     <toolbar />
     <mensagem />
+    <sobre />
   </div>
 </template>
 
 <script>
 import Toolbar from '../components/Toolbar.vue'
 import Mensagem from '../components/Mensagem.vue'
+import Sobre from './Sobre.vue'
 export default {
   data (){
     return {
@@ -17,6 +19,7 @@ export default {
   components: {
     Toolbar,
     Mensagem,
+    Sobre
   }
 }
 </script>
