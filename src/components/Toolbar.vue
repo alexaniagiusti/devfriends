@@ -22,7 +22,7 @@
         </v-btn>
         <v-spacer></v-spacer>
         <v-btn icon>
-            <v-icon size="40">account_circle</v-icon>
+            <v-icon size="30">lock</v-icon>
         </v-btn>
     </v-toolbar>
 </div>
