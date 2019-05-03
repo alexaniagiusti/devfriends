@@ -5,14 +5,14 @@
     <div class="box2">
       <span class="headline white--text"> Precisando dar um up na sua empresa?</span>
       <span class="subheading white--text text-xs-center mt-3 font-weight-thin"> 
-        A DevFriends adoraria ajudar, oferecemos a você
+        A Dev Friends adoraria ajudar, oferecemos a você
         empreendedor, sistemas que automatizarão os processos 
         da sua empresa, trabalhamos para entregar produtos de alta 
         performance e conteúdos que agreguem valor aos nossos clientes 
         e visitantes, nosso trabalho é baseado em feedback contínuo 
         através da utilização de metodologias ágeis de desenvolvimento, 
         não trabalhamos com escopo fechado, quem decide quando o produto
-        está pronto são nossos clientes, pois deixá-los contentes e satisfeitos
+        está pronto são nossos clientes, deixá-los contentes e satisfeitos
         é a nossa prioridade, por isso garantimos um desenvolvimento altamente 
         interativo, entre em contato conosco e solicite um orçamento, 
         nós desenvolvemos aplicações ao estilo single page applications 

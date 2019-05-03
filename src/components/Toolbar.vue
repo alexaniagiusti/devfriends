@@ -8,16 +8,19 @@
     >
         <img src="https://firebasestorage.googleapis.com/v0/b/devfriends-5ab33.appspot.com/o/logo1-Recuperado.png?alt=media&token=6173f25e-969e-4419-a7be-e5a705990ff2" height="30">
         <v-spacer></v-spacer>
-        <v-btn flat round>
+        <v-btn flat class="font-weight-light">
           Quem somos
         </v-btn>
-        <v-btn flat round>
+        <v-btn flat class="font-weight-light">
+          Colobaradores
+        </v-btn>
+        <v-btn flat class="font-weight-light">
           Especialidades
         </v-btn>
-        <v-btn flat round>
+        <v-btn flat class="font-weight-light">
           Blog
         </v-btn>
-        <v-btn flat round class="mr-5">
+        <v-btn flat class="mr-5 font-weight-light">
           Contato
         </v-btn>
         <v-spacer></v-spacer>
